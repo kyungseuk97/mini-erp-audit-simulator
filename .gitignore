@@ -1,0 +1,14 @@
+# API 키/토큰 - 절대 GitHub에 올리면 안 됨
+Notion.txt
+.env
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+
+# 실행할 때마다 새로 생기는 결과물 (코드만 있으면 언제든 재생성 가능)
+journal_entries.xlsx
+gl_tb_fs.xlsx
+
+# 원본 데이터 전체 (라이선스 문제로 샘플만 올림, data/sample_retail_sales.csv는 예외)
+data/retail_sales.csv
